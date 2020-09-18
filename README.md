@@ -1,1 +1,2 @@
-# candy-crush-mini
+# 
+candy-crush-mini made using JavaScript
